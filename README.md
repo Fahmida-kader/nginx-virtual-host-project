@@ -66,6 +66,4 @@ test is successful
 - Configure local DNS resolution using hosts file
 - Test and validate Nginx configurations
 
-## Author
 
-Fahmida Kader
